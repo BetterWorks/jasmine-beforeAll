@@ -1,14 +1,12 @@
 {
-  "name": "jasmine-beforeAll",
+  "name": "jasmine-beforeall",
   "license": "MIT",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "src/jasmine-beforeAll.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nonplus/jasmine-beforeAll.git"
+    "url": "https://github.com/BetterWorks/jasmine-beforeAll.git"
   },
-  "dependencies" : {
-  },
-  "devDependencies": {
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
