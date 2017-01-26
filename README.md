@@ -112,6 +112,7 @@ describe("Top", function() {
 
 will genegerate the following console output:
 ```
+Top Before All
 Top Setup
 Example 1 Setup
 Top Before Each
